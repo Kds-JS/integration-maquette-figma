@@ -36,8 +36,8 @@ function HeroSection () {
       <div className='md:flex items-center space-x-14 py-14'>
           <div className='md:w-1/2'>
             <h1 className='text-[42px] font-bold text-slate-900'>
-              <span className=''>
-                You Don't Save,
+              <span >
+                {"You Don't Save,"}
                  <span class="ml-1 before:block before:absolute before:-inset-1 custom-skew before:bg-brand-500 relative inline-block">
                   <span class="relative text-white">We Save!</span>
                 </span>
