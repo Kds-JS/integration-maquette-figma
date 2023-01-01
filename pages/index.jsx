@@ -45,7 +45,7 @@ function HeroSection () {
               <span className='block mt-2'>Your Money, Your Terms.</span>
             </h1>
 
-            <p className='text-brand-gray text-lg leading-7'>Disrupting the traditional financial sector by offering better financial solutions, while staying true to the human values of trust, honesty, and fairness. Secure your future with our secure investments.</p>
+            <p className='text-brand-gray text-lg leading-7'>Disrupting the traditional financial sector by offering better financial solution, while staying true to the human values of trust, honesty, and fairness. Secure your future with our secure investments.</p>
 
             <Link href="/" className='inline-flex items-center mt-6 py-4 px-6 bg-brand-500 text-white font-bold text-lg rounded-lg hover:bg-blue-700'>Create free account</Link>
 
