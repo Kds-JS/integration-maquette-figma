@@ -1,8 +1,8 @@
 import Head from 'next/head'
 import Link from 'next/link'
 
-import Header from '../Components/header'
-import { Button } from '../Components/button'
+import Header from '../Components/Header'
+import { Button } from '../Components/Button'
 
 export default function Home() {
   return (
